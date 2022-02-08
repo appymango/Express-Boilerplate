@@ -1,4 +1,4 @@
-## Express-Boiler
+## Express-Boilerplate
 
 > Author: Santhosh Umapathi
 
@@ -6,7 +6,7 @@ _Visit [Appy Mango](https://appymango.com), for your next Digital Adventure of W
 
 ## Installation
 
-Express-Boiler App requires [Node.js](https://nodejs.org/) or [Yarn](https://yarnpkg.com/) to run.
+Express-Boilerplate App requires [Node.js](https://nodejs.org/) or [Yarn](https://yarnpkg.com/) to run.
 
 First, run the development server:
 
